@@ -14,6 +14,10 @@
     <string name="title_activity_maps">MapsActivity</string>
     <string name="title_activity_map_fragment">MAP_Fragment</string>
 
+    <string name="google_maps_key" translatable="false">
+        AIzaSyBvMGCy1vO7E0utCkxOPeHZjOpTCdEQm_Q
+    </string>
 
     <string name="title_activity_maps_api">MapsApi</string>
+    <string name="title_activity_maps_ensa">MapsEnsa</string>
 </resources>
