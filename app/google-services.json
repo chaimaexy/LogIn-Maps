@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "848394731869",
+    "project_id": "authenti-maps",
+    "storage_bucket": "authenti-maps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848394731869:android:9595a1b227e3c8bae5e8b4",
+        "android_client_info": {
+          "package_name": "ma.ensa.authenti_maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848394731869-739evlg54tggk9gg9qram0r296hjal12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ma.ensa.authenti_maps",
+            "certificate_hash": "d22657921068e312c64cea28572f93a7227d2d54"
+          }
+        },
+        {
+          "client_id": "848394731869-u2s21iuvcjstsg1h7m39rg25dgbasg0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXizvnY42-FiyQRDYxyDWAUy7iR757YcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848394731869-u2s21iuvcjstsg1h7m39rg25dgbasg0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

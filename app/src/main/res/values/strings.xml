@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Authenti_Maps</string>
+    <string name="default_web_client_id" translatable="false">848394731869-u2s21iuvcjstsg1h7m39rg25dgbasg0v.apps.googleusercontent.com </string>
+
+
+    <string name="facebook_app_id">273269801909418</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+    <string name="Authentication">Authentication</string>
+
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="title_activity_ensa_maps">EnsaMaps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_map_fragment">MAP_Fragment</string>
+
+
+    <string name="title_activity_maps_api">MapsApi</string>
+</resources>
