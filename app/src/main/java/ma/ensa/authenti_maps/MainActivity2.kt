@@ -79,7 +79,7 @@ class MainActivity2 : AppCompatActivity() , NavigationView.OnNavigationItemSelec
     override fun onNavigationItemSelected(item: MenuItem): Boolean {
         when (item.itemId) {
             R.id.map -> {
-                val intent = Intent(this,MainActivity2::class.java)
+                val intent = Intent(this,MapsEnsa::class.java)
                 startActivity(intent)
             }
             R.id.logout -> {
